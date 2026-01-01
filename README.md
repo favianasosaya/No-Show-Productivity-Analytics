@@ -34,7 +34,7 @@ para identificar oportunidades de mejora operativa.
 - Tendencia temporal
 - Horarios críticos
 
-## 🤖 Machine Learning (opcional)
+## 🤖 Machine Learning
 Modelo de clasificación para predecir probabilidad de no-show.
 
 ## 📎 Archivos
